@@ -1,0 +1,6 @@
+{
+  "name": "Unified Smart Home System (UHS)",
+  "description": "Local-First Smart Home Platform combining Apple Liquid Glass UI, 3D Spatial Digital Twin, Deep Appliance Controls (Samsung SmartThings & LG ThinQ), Direct LAN Drivers, and 24/7 Node Server.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
